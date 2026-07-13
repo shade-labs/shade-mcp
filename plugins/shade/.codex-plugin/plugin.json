@@ -1,0 +1,49 @@
+{
+  "name": "shade",
+  "version": "0.3.0",
+  "description": "Search, inspect, organize, annotate, share, and automate creative assets in Shade.",
+  "author": {
+    "name": "Shade Inc.",
+    "email": "mohit@shade.inc",
+    "url": "https://shade.inc"
+  },
+  "homepage": "https://github.com/shade-labs/shade-mcp",
+  "repository": "https://github.com/shade-labs/shade-mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "creative-assets",
+    "digital-asset-management",
+    "media",
+    "mcp"
+  ],
+  "interface": {
+    "displayName": "Shade",
+    "shortDescription": "Manage creative assets with AI.",
+    "longDescription": "Connect Codex and ChatGPT to Shade to search, browse, inspect, organize, annotate, share, and automate creative assets through the production Shade MCP server.",
+    "developerName": "Shade Inc.",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://shade.inc",
+    "privacyPolicyURL": "https://shade.inc/legal/privacy-policy",
+    "termsOfServiceURL": "https://shade.inc/legal/terms-of-service",
+    "defaultPrompt": [
+      "Find five clips showing a person eating pizza.",
+      "Summarize this video and show preview frames.",
+      "Browse this project and find the latest graded exports."
+    ],
+    "brandColor": "#626BFF",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo.png",
+    "screenshots": [
+      "./assets/search.png",
+      "./assets/inspect.png",
+      "./assets/safety.png"
+    ]
+  },
+  "apps": "./.app.json"
+}

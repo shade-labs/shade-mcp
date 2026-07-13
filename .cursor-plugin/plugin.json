@@ -1,0 +1,29 @@
+{
+  "name": "shade",
+  "displayName": "Shade",
+  "version": "0.3.0",
+  "description": "Search, inspect, organize, annotate, share, and automate creative assets in Shade.",
+  "author": {
+    "name": "Shade Inc."
+  },
+  "publisher": "Shade Inc.",
+  "homepage": "https://shade.inc",
+  "repository": "https://github.com/shade-labs/shade-mcp",
+  "license": "Proprietary",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "shade",
+    "digital-asset-management",
+    "creative-assets",
+    "media",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "assets",
+    "creative",
+    "media",
+    "productivity"
+  ],
+  "mcpServers": "./mcp.json"
+}

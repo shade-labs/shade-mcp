@@ -34,7 +34,7 @@ Install the Shade plugin from the Cursor Marketplace, or add this to
 
 ### Codex
 
-Add this to `~/.codex/config.toml`:
+The marketplace-ready Codex package is in [`plugins/shade`](./plugins/shade) and depends on the reviewed Shade app. For a direct custom connection, add this to `~/.codex/config.toml`:
 
 ```toml
 [mcp_servers.shade]

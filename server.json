@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.shade-labs/shade",
+  "name": "io.github.Just-Moh-it/shade",
   "title": "Shade",
   "description": "Search, inspect, organize, annotate, share, and automate creative assets in Shade.",
   "repository": {

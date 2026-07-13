@@ -15,6 +15,8 @@ https://mcp.shade.inc/mcp
 
 Shade uses OAuth. Your MCP client opens Shade sign-in when you connect.
 
+Watch the [production MCP reviewer walkthrough](https://github.com/shade-labs/shade-mcp/releases/download/reviewer-demo-2026-07-13/shade-mcp-reviewer-demo.mp4) for a concise connection, search, asset-inspection, preview, and safety demo.
+
 ### Cursor
 
 Install the Shade plugin from the Cursor Marketplace, or add this to

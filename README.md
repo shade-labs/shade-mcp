@@ -77,6 +77,6 @@ Shade MCP only accesses workspaces and drives available to the authenticated
 Shade user. Mutating tools require the host's normal approval flow. See the
 [Shade Privacy Policy](https://shade.inc/legal/privacy-policy),
 [Terms of Service](https://shade.inc/legal/terms-of-service), and
-[security overview](https://shade.inc/security).
+[security and legal overview](https://shade.inc/legal).
 
 For help, visit the [Shade Help Center](https://academy.shade.inc/help-center).
